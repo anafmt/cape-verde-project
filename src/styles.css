@@ -24,6 +24,14 @@ body {
   height: 100%;
 }
 
+.right {
+  object-position: right;
+}
+
+.left {
+  object-position: left;
+}
+
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
